@@ -38,7 +38,7 @@ pytz==2016.7
 pyusb==1.0.0 
 PyYAML>=5.4
 qrcode==5.3
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.20.0
 suds-jurko==0.6
 vatnumber==1.2

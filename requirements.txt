@@ -14,7 +14,7 @@ lxml>=4.6.3
 
 
 lxml ; sys_platform == 'win32'
-Mako==1.0.4
+Mako==1.2.2
 MarkupSafe==0.23
 mock==2.0.0
 num2words==0.5.6
